@@ -25,7 +25,7 @@ Vine Table:
 Questions:
 -How many Vine reviews and non-Vine reviews were there?
 Surpisingly, with the dataset I chose to use, there were no vine reviews.
-![no vine]()
+![no vine](https://github.com/heatherhutchinson211/Amazon_Vine_Analysis/blob/main/no_vine.png)
 
 There were 380604 reviews with vine.
 ![vinereviews]()
