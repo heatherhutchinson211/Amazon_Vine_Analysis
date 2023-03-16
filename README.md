@@ -29,7 +29,7 @@ Surpisingly, with the dataset I chose to use, there were no vine reviews.
 
 ![no vine](https://github.com/heatherhutchinson211/Amazon_Vine_Analysis/blob/main/no_vine.png)
 
-There were 380604 reviews with vine.
+There were 380604 reviews that were not with vine.
 
 ![vinereviews](https://github.com/heatherhutchinson211/Amazon_Vine_Analysis/blob/main/vine_review.png)
 
