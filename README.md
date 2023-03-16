@@ -36,9 +36,10 @@ There were 380604 reviews that were not with vine.
 **-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
 
 When filtering among verified purchases, I found that 2288 verified purchases were 5 stars and 10043 non-verfied purchases wer 5 stars.
+
 **-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
-When filtering using "paid" and "unpaid," I saw that 64% of verified purchases were 5-stars.
+When filtering using "verified purchase" I saw that 64% of verified purchases were 5-stars.
 
 ![paid](https://github.com/heatherhutchinson211/Amazon_Vine_Analysis/blob/main/verified.png)
 
