@@ -5,7 +5,7 @@ This project involved using Google CoLab, AWS, and SQL in order to analyze a se 
 
 ## Results
 After transforming my data, I created four new data frames and uploaded them into SQL, as shown below:
-![]()
+![customers](https://github.com/heatherhutchinson211/Amazon_Vine_Analysis/blob/main/customers.png)
 ![]()
 ![]()
 ![]()
