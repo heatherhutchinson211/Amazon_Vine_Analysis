@@ -23,15 +23,26 @@ Vine Table:
 ![vine](https://github.com/heatherhutchinson211/Amazon_Vine_Analysis/blob/main/vine.png)
 
 Questions:
--How many Vine reviews and non-Vine reviews were there?
+**-How many Vine reviews and non-Vine reviews were there?**
+
 Surpisingly, with the dataset I chose to use, there were no vine reviews.
+
 ![no vine](https://github.com/heatherhutchinson211/Amazon_Vine_Analysis/blob/main/no_vine.png)
 
 There were 380604 reviews with vine.
-![vinereviews]()
--How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
--What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+![vinereviews](https://github.com/heatherhutchinson211/Amazon_Vine_Analysis/blob/main/vine_review.png)
 
+**-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
+
+**-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
+
+When filtering using "paid" and "unpaid," I saw that 64% of verified purchases were 5-stars.
+
+![paid]()
+
+Additionally, 60% of nonverified purchases were 5 stars.
+
+![not_paid]()
 
 ## Summary
