@@ -39,7 +39,7 @@ There were 380604 reviews with vine.
 
 When filtering using "paid" and "unpaid," I saw that 64% of verified purchases were 5-stars.
 
-![paid]()
+![paid](https://github.com/heatherhutchinson211/Amazon_Vine_Analysis/blob/main/verified.png)
 
 Additionally, 60% of nonverified purchases were 5 stars.
 
